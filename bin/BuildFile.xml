@@ -1,0 +1,4 @@
+<bin   file="testSVfitStandalone2b2tau.cc" name="testSVfitStandalone2b2tau">
+  <use name="FWCore/ParameterSet"/>
+  <use name="TauAnalysis/SVfit2b2tau_standalone"/>
+</bin>
